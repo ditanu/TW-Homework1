@@ -1,0 +1,186 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h6 {
+  color: rgb(4, 98, 229);
+  font-family: Tahoma;
+  font-size: 35px;
+  font-weight: 550;
+}
+
+a {
+  color: rgb(4, 98, 229);
+  font-size: 18px;
+}
+
+button {
+  font-size: 20px;
+  padding-right: 25px;
+  padding-left: 25px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  color: white;
+  border-radius: 20px;
+  background-color: orangered;
+  margin-bottom: 30px;
+}
+
+.first-container {
+  background-color: rgb(165, 220, 248);
+  margin-bottom: 30px;
+}
+
+#gabriel-heading {
+  font-size: 70px;
+  font-weight: 100;
+  padding-top: 200px;
+  text-align: center;
+  margin-bottom: 10px;
+  font-family: "Brush Script MT", cursive;
+}
+
+#web-dev-paragraph {
+  text-align: center;
+  padding-bottom: 200px;
+  color: rgb(4, 98, 229);
+  font-size: 25px;
+}
+
+#description-paragraph {
+  font-size: 17px;
+}
+
+.dot {
+  height: 15px;
+  width: 15px;
+  background-color: rgb(232, 232, 232);
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.dots-container {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+#skills-heading {
+  padding-bottom: 40px;
+  padding-top: 50px;
+}
+
+#skills-first-img {
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+#skills-second-img {
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+#design-subtitle {
+  padding-bottom: 10px;
+  font-weight: 100;
+  font-size: 25px;
+}
+
+#another-skill-heading {
+  font-weight: 100;
+  font-size: 25px;
+}
+
+#design-paragraph {
+  padding-right: 100px;
+}
+
+#hello-heading {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+#profile-photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+}
+
+#description-paragraph {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.third-container {
+  background-color: rgb(236, 233, 233);
+}
+
+.flex-container {
+  display: flex;
+}
+
+#skills-heading {
+  text-align: center;
+}
+
+#another-skill-heading {
+  padding-top: 25px;
+  padding-left: 25px;
+}
+
+#another-skill-paragraph {
+  padding-top: 10px;
+  padding-left: 25px;
+}
+
+#skills-second-img {
+  padding-right: 30px;
+  padding-bottom: 40px;
+}
+
+#touch-heading {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.forth-container {
+  margin-top: 30px;
+}
+
+.fifth-container {
+  background-color: aquamarine;
+}
+
+.button-container {
+  text-align: center;
+}
+
+.social-media-links-container {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 25px;
+}
+
+.link {
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+#footer-text {
+  text-align: center;
+  font-size: 14px;
+}
+
+.fifth-container {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: rgb(165, 220, 248);
+}
